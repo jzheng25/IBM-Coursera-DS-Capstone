@@ -1,3 +1,8 @@
 The analysis will use ZIPCODE as proxy to neighborhoods. The unit of analysis will be over 90 zipcodes in Chicago. The study will collect data on:
 •	Income for each zipcode, collecting from US Census Bureau 
 •	Foursquare location data on parks, restaurants, grocery stores, or other businesses that are measuring the infrastructure and quality of live within a neighborhood.
+
+Methodology (brief)
+•	Compile zip code list, geocode the neighborhoods, and add income data to the list.
+•	Identify the clusters of neighborhoods based on the location and income. Map the clusters of neighborhoods.
+•	Compare the businesses and infrastructure across neighborhood cluster.   
