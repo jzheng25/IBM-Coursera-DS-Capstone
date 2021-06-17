@@ -1,3 +1,5 @@
 There are growing concerns of social disparities regarding income, infrastructure and quality of live across urban neighborhood. However, quantitative assessments on such social disparities are still lagging.
+
 The proposed analysis will try to evaluate the disparities across neighborhoods using the case study in Chicago. The results would like to inform policymaking and local investment on infrastructure, so as to attract businesses and improve quality of live. 
+
 The study is intended to reveal the differences of infrastructure and urge timely policy making to improve the social well-being.
